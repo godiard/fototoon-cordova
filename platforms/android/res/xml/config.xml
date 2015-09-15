@@ -24,4 +24,7 @@
     <preference name="disallowoverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <preference name="orientation" value="landscape" />
+    <feature name="Canvas2ImagePlugin">
+        <param name="android-package" value="org.devgeeks.Canvas2ImagePlugin.Canvas2ImagePlugin" />
+    </feature>
 </widget>
