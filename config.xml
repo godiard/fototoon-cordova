@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.sugarlabs.FotoToon" version="0.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>FotoToon</name>
+<widget id="com.trinmio.MindMap" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MindMap</name>
     <description>
-        Create cartoons with images, pictures and dialogues
+        Create a map with your ideas
     </description>
     <author email="godiard@gmail.com" href="http://cordova.io">
         Gonzalo Odiard
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <icon src="res/fototoon-icon.png" />
+    <icon src="res/mindmap-icon.png" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="permissions" value="none" />
     <preference name="Fullscreen" value="true" />
     <preference name="uiWebViewBounce" value="false" />
     <preference name="webviewbounce" value="false" />
-    <preference name="android-minSdkVersion" value="14" />
+    <preference name="android-minSdkVersion" value="16" />
     <preference name="Orientation" value="landscape" />
-    <preference name="xwalkVersion" value="15+" />
+    <preference name="xwalkVersion" value="20+" />
     <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect" />
     <preference name="xwalkMode" value="embedded" />
     <preference name="xwalkMultipleApk" value="true" />
