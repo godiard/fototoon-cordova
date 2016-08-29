@@ -21,7 +21,11 @@
                             "count": 1
                         },
                         {
-                            "xml": "<preference default=\"15+\" name=\"xwalkVersion\" />",
+                            "xml": "<preference default=\"20+\" name=\"xwalkVersion\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<preference default=\"xwalk_core_library_canary:17+\" name=\"xwalkLiteVersion\" />",
                             "count": 1
                         },
                         {
@@ -34,6 +38,10 @@
                         },
                         {
                             "xml": "<preference default=\"true\" name=\"xwalkMultipleApk\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<preference default=\"16\" name=\"android-minSdkVersion\" />",
                             "count": 1
                         }
                     ]
@@ -67,7 +75,7 @@
             "PACKAGE_NAME": "org.sugarlabs.FotoToon"
         },
         "cordova-plugin-crosswalk-webview": {
-            "PACKAGE_NAME": "org.sugarlabs.FotoToon"
+            "PACKAGE_NAME": "com.trinmio.MindMap"
         }
     },
     "dependent_plugins": {}
