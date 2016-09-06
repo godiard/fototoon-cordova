@@ -15,6 +15,9 @@
     <preference default="embedded" name="xwalkMode" />
     <preference default="true" name="xwalkMultipleApk" />
     <preference default="16" name="android-minSdkVersion" />
+    <feature name="AndroidFullScreen">
+        <param name="android-package" value="com.mesmotronic.plugins.FullScreenPlugin" />
+    </feature>
     <name>MindMap</name>
     <description>
         Create a map with your ideas

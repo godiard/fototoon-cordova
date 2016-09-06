@@ -43,6 +43,10 @@
                         {
                             "xml": "<preference default=\"16\" name=\"android-minSdkVersion\" />",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"AndroidFullScreen\"><param name=\"android-package\" value=\"com.mesmotronic.plugins.FullScreenPlugin\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -75,6 +79,9 @@
             "PACKAGE_NAME": "org.sugarlabs.FotoToon"
         },
         "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "com.trinmio.MindMap"
+        },
+        "cordova-plugin-fullscreen": {
             "PACKAGE_NAME": "com.trinmio.MindMap"
         }
     },
