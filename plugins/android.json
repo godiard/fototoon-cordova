@@ -83,6 +83,9 @@
         },
         "cordova-plugin-fullscreen": {
             "PACKAGE_NAME": "com.trinmio.MindMap"
+        },
+        "com.wezka.nativecamera": {
+            "PACKAGE_NAME": "com.trinmio.MindMap"
         }
     },
     "dependent_plugins": {}
